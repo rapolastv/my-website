@@ -52,3 +52,18 @@ body {
 #downloadosbtn:hover {
     background-color: #00ff00;
 }
+#chargenbtn {
+    margin: 10px;
+    font-size: larger;
+    font-family: "Geo", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #249324;
+    border-radius: 5px;
+    border: none;
+    transition: background-color 1s;
+    cursor: pointer;
+}
+#chargenbtn:hover {
+    background-color: #00ff00;
+}
