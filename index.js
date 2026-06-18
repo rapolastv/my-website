@@ -8,3 +8,6 @@ document.getElementById("playgamebtn").onclick = () => {
 document.getElementById("downloadosbtn").onclick = () => {
     window.location.href = "https://github.com/rapolastv/my-website/releases/tag/1.0";
 }
+document.getElementById("chargenbtn").onclick = () => {
+    window.location.href = "chargen.html";
+}
